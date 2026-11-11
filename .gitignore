@@ -1,0 +1,10 @@
+code/.work/
+code/.venv/
+code/.venv-vllm/
+code/env.sh
+code/cache/
+code/data/QuantiPhy-test/
+code/RUN/
+code/runs/ev_v9/
+code/sub21g.csv
+__pycache__/

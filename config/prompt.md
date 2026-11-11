@@ -1,0 +1,1 @@
+/skill:video-physics Answer every question in questions.json about video.mp4 in this directory, following the skill. Take the time you need: measure carefully with the qpt tools, look at the pictures, and check each answer. Finish by writing answers.json and notes.md as the skill specifies.

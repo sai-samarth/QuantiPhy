@@ -1,0 +1,3 @@
+#!/bin/sh
+# qpt: measuring tools for a video task directory (see ../SKILL.md)
+exec python "$(dirname "$(readlink -f "$0")")/../qpt/qpt.py" "$@"
